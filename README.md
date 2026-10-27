@@ -23,7 +23,7 @@
 
 - 💻 Passionate **Full-Stack Developer** crafting responsive web applications from sleek frontends to scalable backends.
 - 👁️ Exploring the frontiers of **Computer Vision & Data**, building intelligent solutions that bridge AI models with interactive web experiences.
-- 🛠️ Currently building with **React, Next.js, TypeScript, and Node.js / Express**.
+- 🛠️ Currently learning with **React, Next.js, TypeScript, and Node.js / Express**.
 - 🎯 Always open to collaborating on innovative web applications and Computer Vision projects.
 
 ---
@@ -60,7 +60,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
@@ -68,15 +67,14 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **Full-Stack Web App** | Modern web application featuring interactive UI, authentication, and robust REST APIs. | `Next.js` `TypeScript` `Express` `PostgreSQL` | [Code](https://github.com/tanravikorn) • [Demo](https://github.com/tanravikorn) |
-| **Computer Vision Pipeline** | Object detection & image processing system trained for real-time inference. | `Python` `OpenCV` `PyTorch`  | [Code](https://github.com/tanravikorn) • [Demo](https://github.com/tanravikorn) |
-| **Interactive Dashboard** | Real-time analytics dashboard with dynamic visual charts and data management. | `React` `Tailwind CSS` `Node.js` | [Code](https://github.com/tanravikorn) • [Demo](https://github.com/tanravikorn) |
+| **FakBokChula** | Web application project in Com-Eng-Ess . | `HTML&CSS` `JavaScript` `Express` `MongGODB` | [Repo](https://github.com/tanravikorn) |
+| **SuperCandy** | The parody game from CandyCrush build from JAVA and JavaFx. | `React` `Tailwind CSS` `Node.js` | [Repo](https://github.com/tanravikorn)  [Docs](https://github.com/tanravikorn/JavaDoc_SuperCandy) |
+| **PetBuddy** | Matching web application between PetOwner & PetSitter . | `React` `TypeScript` `Express` `PostgreSQL` `Prisma` `Supabase`| [Repo](https://github.com/TxAll-Stars-SE-Project/PetBuddy) |
 
-*(💡 You can replace the project titles, descriptions, and links with your actual repositories!)*
 
 ---
 
