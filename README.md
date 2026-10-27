@@ -73,7 +73,7 @@
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
 | **Full-Stack Web App** | Modern web application featuring interactive UI, authentication, and robust REST APIs. | `Next.js` `TypeScript` `Express` `PostgreSQL` | [Code](https://github.com/tanravikorn) • [Demo](https://github.com/tanravikorn) |
-| **Computer Vision Pipeline** | Object detection & image processing system trained for real-time inference. | `Python` `OpenCV` `PyTorch` `YOLO` | [Code](https://github.com/tanravikorn) • [Demo](https://github.com/tanravikorn) |
+| **Computer Vision Pipeline** | Object detection & image processing system trained for real-time inference. | `Python` `OpenCV` `PyTorch`  | [Code](https://github.com/tanravikorn) • [Demo](https://github.com/tanravikorn) |
 | **Interactive Dashboard** | Real-time analytics dashboard with dynamic visual charts and data management. | `React` `Tailwind CSS` `Node.js` | [Code](https://github.com/tanravikorn) • [Demo](https://github.com/tanravikorn) |
 
 *(💡 You can replace the project titles, descriptions, and links with your actual repositories!)*
@@ -97,10 +97,10 @@
 
 <p align="center">
   <!-- Replace '#' with your actual links -->
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://linkedin.com/in/ravikorn-tiansunt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:tanravikorn@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/tanravikorn" target="_blank">
