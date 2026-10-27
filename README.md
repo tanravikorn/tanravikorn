@@ -42,13 +42,7 @@
 <a id="experience"></a>
 ## 💼 Experience
 <!-- Experience Item 1 -->
-**CURRENT MOCK**
-### 🔹 Full-Stack Developer / Intern • [Company / Organization Name]
-*`Jun 2024 - Present` • Bangkok, Thailand*
-- 🚀 Developed and maintained responsive web applications using **React, Next.js, and Node.js / Express**.
-- ⚡ Designed robust RESTful APIs and optimized database schemas using **PostgreSQL & Prisma**.
-- 🤝 Collaborated with team members to deliver user-centric features and clean, maintainable code.
-- 🏷️ *Technologies:* `Next.js` `TypeScript` `Express` `PostgreSQL` `Tailwind CSS`
+**Nothing At Here**
 
 ---
 <a id="tech-stack"></a>
