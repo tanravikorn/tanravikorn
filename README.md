@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Ravikorn Tiansunt 👋
+# Hi there, I'm Tanravikorn 👋
 ### 🚀 Full-Stack Developer & Computer Vision Enthusiast
 
 <p align="center">
@@ -42,12 +42,15 @@
 
 ### 🌐 Web & Full-Stack Development
 <p align="left">
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <!-- Database & Tools -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -73,6 +76,8 @@
 | **Computer Vision Pipeline** | Object detection & image processing system trained for real-time inference. | `Python` `OpenCV` `PyTorch` `YOLO` | [Code](https://github.com/tanravikorn) • [Demo](https://github.com/tanravikorn) |
 | **Interactive Dashboard** | Real-time analytics dashboard with dynamic visual charts and data management. | `React` `Tailwind CSS` `Node.js` | [Code](https://github.com/tanravikorn) • [Demo](https://github.com/tanravikorn) |
 
+*(💡 You can replace the project titles, descriptions, and links with your actual repositories!)*
+
 ---
 
 ## 📊 GitHub Analytics
@@ -89,7 +94,9 @@
 ## 📬 Connect with Me
 
 <div align="center">
+
 <p align="center">
+  <!-- Replace '#' with your actual links -->
   <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -103,4 +110,9 @@
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+<p align="center">
+  ⭐️ <i>Thanks for visiting my profile! Feel free to connect or explore my repositories.</i>
+</p>
+
 </div>
