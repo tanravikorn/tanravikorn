@@ -27,7 +27,15 @@
 - 🎯 Always open to collaborating on innovative web applications and Computer Vision projects.
 
 ---
+## 🚀 Projects
 
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **FakBokChula** | Web application project in Com-Eng-Ess . | `HTML&CSS` `JavaScript` `Express` `MongGODB` | [Repo](https://github.com/tanravikorn) |
+| **SuperCandy** | The parody game from CandyCrush build from JAVA and JavaFx. | `React` `Tailwind CSS` `Node.js` | [Repo](https://github.com/tanravikorn)  [Docs](https://github.com/tanravikorn/JavaDoc_SuperCandy) |
+| **PetBuddy** | Matching web application between PetOwner & PetSitter . | `React` `TypeScript` `Express` `PostgreSQL` `Prisma` `Supabase`| [Repo](https://github.com/TxAll-Stars-SE-Project/PetBuddy) |
+
+---
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -64,17 +72,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
-
----
-
-## 🚀 Projects
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :---: |
-| **FakBokChula** | Web application project in Com-Eng-Ess . | `HTML&CSS` `JavaScript` `Express` `MongGODB` | [Repo](https://github.com/tanravikorn) |
-| **SuperCandy** | The parody game from CandyCrush build from JAVA and JavaFx. | `React` `Tailwind CSS` `Node.js` | [Repo](https://github.com/tanravikorn)  [Docs](https://github.com/tanravikorn/JavaDoc_SuperCandy) |
-| **PetBuddy** | Matching web application between PetOwner & PetSitter . | `React` `TypeScript` `Express` `PostgreSQL` `Prisma` `Supabase`| [Repo](https://github.com/TxAll-Stars-SE-Project/PetBuddy) |
-
 
 ---
 
