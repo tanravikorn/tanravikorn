@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Tanravikorn 👋
+# Hi there, I'm Ravikorn Tiansunt 👋
 ### 🚀 Full-Stack Developer & Computer Vision Enthusiast
 
 <p align="center">
@@ -79,7 +79,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tanravikorn&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Tanravikorn's GitHub Stats" height="175" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tanravikorn&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=false&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Tanravikorn's GitHub Stats" height="175" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanravikorn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" height="175" />
   </p>
 </div>
