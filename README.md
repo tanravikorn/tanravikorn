@@ -8,34 +8,50 @@
 </p>
 
 <p align="center">
-  <a href="#-about-me">About Me</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-featured-projects">Featured Projects</a> •
-  <a href="#-github-analytics">GitHub Analytics</a> •
-  <a href="#-connect-with-me">Connect</a>
+  <a href="#about-me">About Me</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#github-analytics">GitHub Analytics</a> •
+   <a href="#experience">Experience</a> •
+  <a href="#connect-with-me">Connect</a>
 </p>
 
 ---
 
 </div>
 
+<a id="about-me"></a>
 ## 📌 About Me
 
 - 💻 Passionate **Full-Stack Developer** crafting responsive web applications from sleek frontends to scalable backends.
 - 👁️ Exploring the frontiers of **Computer Vision & Data**, building intelligent solutions that bridge AI models with interactive web experiences.
 - 🛠️ Currently learning with **React, Next.js, TypeScript, and Node.js / Express**.
-- 🎯 Always open to collaborating on innovative web applications and Computer Vision projects.
 
 ---
+
+<a id="projects"></a>
 ## 🚀 Projects
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **FakBokChula** | Web application project in Com-Eng-Ess . | `HTML&CSS` `JavaScript` `Express` `MongGODB` | [Repo](https://github.com/tanravikorn) |
-| **SuperCandy** | The parody game from CandyCrush build from JAVA and JavaFx. | `React` `Tailwind CSS` `Node.js` | [Repo](https://github.com/tanravikorn)  [Docs](https://github.com/tanravikorn/JavaDoc_SuperCandy) |
-| **PetBuddy** | Matching web application between PetOwner & PetSitter . | `React` `TypeScript` `Express` `PostgreSQL` `Prisma` `Supabase`| [Repo](https://github.com/TxAll-Stars-SE-Project/PetBuddy) |
+| **FakBokChula** | Web application project in Com-Eng-Ess. | `HTML & CSS` `JavaScript` `Express` `MongoDB` | [Repo](https://github.com/tanravikorn) |
+| **SuperCandy** | The parody game from CandyCrush built from Java and JavaFX. | `Java` `JavaFX` | [Repo](https://github.com/tanravikorn) • [Docs](https://github.com/tanravikorn/JavaDoc_SuperCandy) |
+| **PetBuddy** | Matching web application between PetOwner & PetSitter. | `React` `TypeScript` `Express` `PostgreSQL` `Prisma` `Supabase` | [Repo](https://github.com/TxAll-Stars-SE-Project/PetBuddy) |
 
 ---
+<a id="experience"></a>
+## 💼 Experience
+<!-- Experience Item 1 -->
+**CURRENT MOCK**
+### 🔹 Full-Stack Developer / Intern • [Company / Organization Name]
+*`Jun 2024 - Present` • Bangkok, Thailand*
+- 🚀 Developed and maintained responsive web applications using **React, Next.js, and Node.js / Express**.
+- ⚡ Designed robust RESTful APIs and optimized database schemas using **PostgreSQL & Prisma**.
+- 🤝 Collaborated with team members to deliver user-centric features and clean, maintainable code.
+- 🏷️ *Technologies:* `Next.js` `TypeScript` `Express` `PostgreSQL` `Tailwind CSS`
+
+---
+<a id="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -75,6 +91,7 @@
 
 ---
 
+<a id="github-analytics"></a>
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -86,12 +103,12 @@
 
 ---
 
+<a id="connect-with-me"></a>
 ## 📬 Connect with Me
 
 <div align="center">
 
 <p align="center">
-  <!-- Replace '#' with your actual links -->
   <a href="https://linkedin.com/in/ravikorn-tiansunt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
