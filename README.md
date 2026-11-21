@@ -22,10 +22,10 @@
 
 <a id="about-me"></a>
 ## 📌 About Me
-
 - 💻 Passionate **Full-Stack Developer** crafting responsive web applications from sleek frontends to scalable backends.
 - 👁️ Exploring the frontiers of **Computer Vision & Data**, building intelligent solutions that bridge AI models with interactive web experiences.
 - 🛠️ Currently learning with **React, Next.js, TypeScript, and Node.js / Express**.
+- 💼 Please click here to my [Resume](https://drive.google.com/file/d/1uGKQlwURDTjUF28GtCuLSFHFPpMCFio6/view?usp=sharing)
 
 ---
 
